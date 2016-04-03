@@ -16,5 +16,5 @@
 
 body { padding-top: 100px; }
 footer { margin-top: 100px; }
-table, td, th { vertical-align: middle; border:solid red ; }
-th { border-bottom: 3px solid red; }
+table, td, th { vertical-align: middle; border:solid #0B4719 ; }
+th { border-bottom: 3px solid #0B4719; }
